@@ -1,2 +1,2 @@
 # shader-learning
- place to track progress in shader development
+ place to track progress in shader development :)
