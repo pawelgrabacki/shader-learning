@@ -16,8 +16,8 @@ float4 main(in float2 uv:TEXCOORD0) : SV_TARGET
 
 
 
-    //d  = smoothstep(0.4,1.0,d);
-    //d = step(d,0.01);
+    d  = smoothstep(0.4,1.0,d);
+    d = step(d,0.01); //circle
 
 
 

@@ -40,7 +40,7 @@ void main() {
     
       vec3 col = pallete(length(uv0)+u_time);
     
-    d = sin(d*8.+u_time)/8.; //vircle movement
+    d = sin(d*8.+u_time)/8.; //circle movement
     d = abs(d);
    
    
@@ -48,12 +48,6 @@ void main() {
 
 
     col *= d;
-
-
-
-
-
-
 
 
 	gl_FragColor = vec4(col,1.0);

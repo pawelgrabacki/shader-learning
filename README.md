@@ -1,2 +1,5 @@
 # shader-learning
- place to track progress in shader development :)
+
+Simple shader that i wrote to get myself familiar with basics of glsl/hlsl.
+
+![Shader Preview](/gif/preview.gif "Shader Preview")
